@@ -1,0 +1,15 @@
+{
+  "name": "bump-npm",
+  "version": "1.0.0",
+  "description": "Attempt to automate package versioning",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "versioning",
+    "npm"
+  ],
+  "author": "MrPeny",
+  "license": "ISC"
+}
