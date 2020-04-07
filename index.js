@@ -1,3 +1,3 @@
 function main() {
-   console.log("Use convetnional commit");
+   console.log("Use manual versioning");
 }
