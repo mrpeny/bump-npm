@@ -1,3 +1,3 @@
 function main() {
-   console.log("Make versioning happen+");
+   console.log("Pick up my release number");
 }
