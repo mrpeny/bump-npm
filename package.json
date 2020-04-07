@@ -1,6 +1,6 @@
 {
   "name": "bump-npm",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "description": "Attempt to automate package versioning",
   "main": "index.js",
   "scripts": {
